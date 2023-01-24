@@ -1,6 +1,6 @@
 const  mongoose  = require("mongoose");
 const Schema = mongoose.Schema;
-
+//set
 const userSchema =new Schema({
     dataa:{type :String, required : true},
 },
